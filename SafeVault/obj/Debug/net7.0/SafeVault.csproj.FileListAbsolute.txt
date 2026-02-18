@@ -1,7 +1,0 @@
-C:\Users\GS\Downloads\SafeVault\SafeVault\obj\Debug\net7.0\SafeVault.csproj.AssemblyReference.cache
-C:\Users\GS\Downloads\SafeVault\SafeVault\obj\Debug\net7.0\SafeVault.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\GS\Downloads\SafeVault\SafeVault\obj\Debug\net7.0\SafeVault.AssemblyInfoInputs.cache
-C:\Users\GS\Downloads\SafeVault\SafeVault\obj\Debug\net7.0\SafeVault.AssemblyInfo.cs
-C:\Users\GS\Downloads\SafeVault\SafeVault\obj\Debug\net7.0\SafeVault.csproj.CoreCompileInputs.cache
-C:\Users\GS\Downloads\SafeVault\SafeVault\obj\Debug\net7.0\SafeVault.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\GS\Downloads\SafeVault\SafeVault\obj\Debug\net7.0\SafeVault.sourcelink.json
